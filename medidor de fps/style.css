@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #333;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+canvas {
+    background-color: #222;
+    border: 2px solid #fff;
+    margin-top: 20px;
+}
+
+#fpsDisplay {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 5px;
+    border-radius: 3px;
+}
